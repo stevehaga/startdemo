@@ -1,0 +1,2 @@
+"07/20/00"|"00:05:23"|"loan"|"downloadfriends@mail.com"|"One last Test for downloadfriends.htm"|"isakim@sonic.net"|""|""|""|""|""|""|""|"yes"
+"08/29/00"|"20:05:23"|"loan"|"sample"|"Sample"|"mhubbell@sonic.net"|""|""|""|""|""|""|""|"yes"

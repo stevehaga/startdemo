@@ -1,0 +1,4 @@
+"08/29/00"|"19:13:03"|"full"|"isakim@sonic.net"|"Albert Kim"|"albertkim@sonic.net"|""|""|""|""|""|""|""|""
+"08/29/00"|"20:33:35"|"full"|"Mhubbell@sonic.net"|"Mortgage test"|"Mhubbell@sonic.net"|""|""|""|""|""|""|""|"yes"
+"08/29/00"|"20:38:19"|"full"|"test"|"testing"|"mhubbell@sonic.net"|""|""|""|""|""|""|""|"yes"
+"08/29/00"|"22:22:02"|"full"|"yuil"|"uil"|"yi;l"|""|""|""|""|""|""|""|"yes"
